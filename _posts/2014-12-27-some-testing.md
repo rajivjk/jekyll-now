@@ -1,7 +1,7 @@
 ---
-published: false
+layout: post
+title: Changes 
 ---
 
-## A New Post
+Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below :point_down:).
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.

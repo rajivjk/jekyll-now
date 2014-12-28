@@ -23,3 +23,5 @@ There are a few things to keep in mind though, else things won't work as planned
 2. Once you have made a change, you can see a preview by running jekyll in your localhost and checking out the changes. This is usually better since github.io can take some time for presenting you with your nifty changes. To find out how to do this, check out the "Local Development" section in the [*Jekyll-Now*](https://github.com/barryclark/jekyll-now) page. Once you are satisfied with the changes, you can then push the change to the master repo.
 
 That's it folks, its that simple. 
+
+#### tags: jekyll, coding, frontend

@@ -7,7 +7,7 @@ I have tried a bunch of different blogging platforms (blogspot, wordpress etc), 
 
 I spent an afternoon trying to get my own *.github.io page going, but ultimately I think I have nailed down the quickest way to get started. So here is the recepie to get started in under 15 minutes.
 
-1. Head over to Barry Clark's awesome *Jekyll-Now* page and fork his repo.
+1. Head over to Barry Clark's awesome [*Jekyll-Now*](https://github.com/barryclark/jekyll-now) page and fork his repo.
 2. Once you have done that, rename it to yourgithubusername.github.io
 3. Navigate to yourgithubusername.github.io
 
